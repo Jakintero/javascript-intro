@@ -19,7 +19,7 @@ var members = ['Juan', 'javier', 'mauricio','German']
 
 // __________________________________________
 // Refleccion: Escribe una refleccion aca sobre lo que aprendiste.
-//
+// Aprendí a correr js en la consola del navegador :) 
 //
 //
 //

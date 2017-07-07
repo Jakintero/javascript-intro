@@ -4,47 +4,27 @@
 
 
 // 0. Objetos
+var atleta1 = {
+  name: 'Javier'
+  height: 1,64
+  sport: 'swimming'
+}
 
-
-
+var atleta2 = {
+  name: 'Mauricio'
+  height: 1,72
+  sport: 'swimming'
+}
 // 1. Añadir propiedades a objetos
-
-a1 = {
-  name: 'fasd',
-  age: 12
-}
-
-a2 = {
-  name: 'afsdf',
-  age: 324
-}
-
-
-var name = 'juan'
-
-// Function Declaration
-function name() {
-
-}
-
-// Function Expresssion
-var name = function() {
-  console.o
-}
-
-
-
-
-function addWinToAthletes(athletes, event) {
+function addToWin(athletes){
   athletes.forEach(function(athlete){
-    athlete.win = function() {
-      console.log(`${this.name} won the ${event}`)
+    athlete.win = function(){
+      console.log 
     }
   })
 }
 
-
-addWinToAthletes([a1,a2], 'Tennis')
+// Function Declaration
 
 
 
