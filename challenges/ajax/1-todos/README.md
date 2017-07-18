@@ -7,9 +7,9 @@ En este reto te vamos a pedir que manipules objetos que han sido agregados diná
 ### Paso 0:
 Primero corre la aplicación como te la damos. Luego agrega las siguientes funcionalidades.
 
-1. Se puede añadir un TODO a la pagina.
-2. Se puede marcar como completado un TODO.
-3. Se puede borrar un TODO de la pagina.
+1. Se puede añadir un TO-DO a la pagina.
+2. Se puede marcar como completado un TO-DO.
+3. Se puede borrar un TO-DO de la pagina.
 
 Usa funciones con nombres para poner como `event handlers`
 
